@@ -1,3 +1,10 @@
+// Smart contract that 
+// 1. accepts deposits from any address
+// 2. withdraws all of the contract's balance to the caller's address
+// 3. withdraws all of the contract's balance to a given address
+// view function to return the contract's address' balance
+
+
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.15;
 
